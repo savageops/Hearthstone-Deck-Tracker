@@ -191,3 +191,6 @@ Resources/Tiles/
 
 # Rider config files
 .idea/
+
+# Local NuGet packages cache
+local-packages/
